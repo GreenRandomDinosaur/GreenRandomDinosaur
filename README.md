@@ -1,4 +1,4 @@
-# GreenRandomDinosaur
+# Prior Knowledge of Layer-Specific Pruning Numbers Guarantees Effective Random Pruning at Initialization
 
 The results in the article *"Prior Knowledge of Layer-Specific Pruning Numbers Guarantees Effective Random Pruning at Initialization"*, submitted to *Pattern Analysis and Applications*, were generated using these codes. 
 
