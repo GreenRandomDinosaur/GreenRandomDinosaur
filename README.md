@@ -6,5 +6,5 @@ The results in Sections 4 and 5 were generated using the code in the directories
 The results in Section 5.3 were generated using the code in the "min_ffn" directory.  
 The results in Section 6 were generated using the code in the "min_prac" directory.  
 
-Each directory contains .sh files. 
+Each directory contains .sh files.  
 Some of them are used to obtain statistics, while others are for plotting the results.
