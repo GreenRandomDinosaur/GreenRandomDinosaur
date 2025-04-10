@@ -1,0 +1,30 @@
+tinyimagenet
+
+vgg19, snip
+ms: 88.0034131212905, ms_expected: 87.99491119384766
+ns: 254920.89, ns_expected: 254925.1875
+
+
+vgg19, grasp
+ms: -1.4922884668037295, ms_expected: -0.9062711000442505
+ns: 52151.93, ns_expected: 52197.15234375
+
+
+vgg19, grasp_abs
+ms: 63072208.403125, ms_expected: 63080212.0
+ns: 142026.29, ns_expected: 142010.78125
+
+
+resnet32, snip
+ms: 110.53885620370507, ms_expected: 110.50508117675781
+ns: 30867.94, ns_expected: 30848.865234375
+
+
+resnet32, grasp
+ms: 0.15303227614611387, ms_expected: -0.1946442425251007
+ns: 6874.57, ns_expected: 6864.1767578125
+
+
+resnet32, grasp_abs
+ms: 3106614112.6543345, ms_expected: 3107868416.0
+ns: 51554.86, ns_expected: 51556.03125
